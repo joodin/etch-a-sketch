@@ -1,0 +1,15 @@
+body {
+    /* background-color: green; */
+}
+
+#container {
+    display:grid;
+}
+
+.paintingarea {
+    background-color: lightgray;
+}
+
+.pixeltrail {
+    background-color: orange;
+}
